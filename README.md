@@ -1,3 +1,19 @@
+# SPA showing auto complete 
+
+## Landing page
+
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/1377429/185571714-eb097688-b1bf-44d4-9bbe-0671c91e3be8.png">
+
+## On typing in search bar we get list of options 
+
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/1377429/185571885-5bf75c0a-da27-4cd6-97fe-39a1a3bc0e2d.png">
+
+
+## On selecting an option we display search results
+
+<img width="1495" alt="image" src="https://user-images.githubusercontent.com/1377429/185572022-f41755ff-9f8e-491a-93d7-2ba56f339406.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
